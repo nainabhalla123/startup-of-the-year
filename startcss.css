@@ -1,0 +1,51 @@
+body,html{
+	height:100%;
+	width:100%;
+	 font-family: fantasy ;
+	  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+
+h1{
+		  font-size: 3rem;
+		color:#305538;
+	}
+
+hr{
+	border-color: #f05f44;
+	border-width:3px;
+	max-width: 65px;
+}
+	.buffer{
+		height:20rem;
+	}
+
+
+.btn{
+	font-weight:700px;
+		border-radius:200px;
+		text-transform:uppercase;
+	}
+
+.btn-success{
+
+		background-color: #f05f44;
+		border-width: 3px;
+		border-color: #f05f44;
+	}
+
+.btn-success:hover{
+		border-width:10px;
+		border-radius:400px;
+		border-color: #f05f44;
+				background-color: #f05f44;
+
+
+}
+.bt-lr
+{
+	padding: 1rem: 2 rem;
+}
